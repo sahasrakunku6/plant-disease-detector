@@ -13,8 +13,9 @@ pinned: false
 # 🌱 Plant Disease Detector
 
 **A deep learning web app to identify 38 different plant diseases from leaf images.**
+<br>
 
-This project uses a pre-trained EfficientNetB4 model, fine-tuned on a dataset of over 50,000 images, to classify plant diseases with high accuracy.
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue?style=flat-square)](https://huggingface.co/spaces/sahasrakunku6/plant-disease-detector)
 
 
 </div>
