@@ -1,0 +1,25 @@
+# Model files
+
+*.keras
+
+*.h5
+
+*.pkl
+
+
+
+# Dataset
+
+dataset/
+
+__pycache__/
+
+*.pyc
+
+.DS_Store
+
+.env
+
+venv/
+
+*.ipynb_checkpoints
