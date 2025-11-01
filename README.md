@@ -64,7 +64,7 @@ The model is a `tf.keras.Sequential` model that uses a pre-trained **EfficientNe
 * **Image Size:** `(160, 160, 3)`
 * **Batch Size:** `32`
 * **Total Epochs:** 16 (6 for the head, 10 for fine-tuning)
-* **Final Test Accuracy:** `~98.5%` (You can update this with your actual number)
+* **Final Test Accuracy:** `~96.5%` 
 
 You can see the complete training process, data preprocessing, and model evaluation in the included Jupyter Notebook:
 [**`notebooks/Plant_Disease_Model_Training.ipynb`**](./notebooks/Plant_Disease_Model_Training.ipynb)
